@@ -1,5 +1,18 @@
-## Hi there 👋
+# Hi, my name is Rishat! 👋
 
+## 👨‍💻 About me
+I am a student practicing python development and also interested in cybersecurity and machine learning.
+I love learning new technologies and sharing my knowledge with others.
+
+## 🛠 Technical stack
+- Python
+- PostgreSQL, MySQL, SQLite
+- Docker, Kubernetes
+- Linux
+- C++
+
+## 📫 Contacts
+- Telegram: @kh1owww
 <!--
 **rishat-dev/rishat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
