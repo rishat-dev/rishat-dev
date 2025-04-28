@@ -6,8 +6,7 @@ I love learning new technologies and sharing my knowledge with others.
 
 ## 🛠 Technical stack
 - Python
-- PostgreSQL, MySQL, SQLite
-- Docker, Kubernetes
+- Docker
 - Linux
 - C++
 
